@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dam824/tictactoc/static/css/main.a873ed7e.css",
+    "main.js": "/dam824/tictactoc/static/js/main.56efa731.js",
+    "index.html": "/dam824/tictactoc/index.html",
+    "main.a873ed7e.css.map": "/dam824/tictactoc/static/css/main.a873ed7e.css.map",
+    "main.56efa731.js.map": "/dam824/tictactoc/static/js/main.56efa731.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a873ed7e.css",
+    "static/js/main.56efa731.js"
+  ]
+}
